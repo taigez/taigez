@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Taige! I am a Junior majoring in Computer Science and Mathematics in the University of Illinois at Urbana-Champaign
+- 👋 Hi, I’m Taige! I am a Senior majoring in Computer Science and Mathematics in the University of Illinois at Urbana-Champaign
 - 👀 I’m interested in **Machine learning** and **Data Scince**, Natural language processing
 - 🌱 I’m currently learning Machine learning, System programming, Programming languages and many more interesting topics!
 - 📫 Please feel free to reach out to me @ taige2@illinois.edu!
